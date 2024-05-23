@@ -1,2 +1,2 @@
-Claudio : TypeScript | MERN | Tailwind | Web3.js 
+Claudio : TypeScript | MERN | Tailwind | Web3.js backend non esperto ma mi piace molto -forontend la parte logica di auth di struttura mi piace molto --- !!!!non bravissimo!!!! a "disegnare" non sono un grafico per usare eufemismo ma mi piace fare frontend in generale su traccia pero' - improvviso meglio con la chitarra!
 
